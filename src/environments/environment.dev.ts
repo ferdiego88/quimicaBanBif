@@ -3,7 +3,7 @@ export const environment = {
   /*webRelativeUrl: '/sites/yanbalappsdesa/productosnuevos',
   proxyUrl: 'https://uniqueyanbal.sharepoint.com',
   cdnUrl: 'https://uniqueyanbal.sharepoint.com/sites/corporacion/cdn',
-  paredUrl: 'https://uniqueyanbal.sharepoint.com/sites/yanbalappsdesa/productosnuevos/pared/',
+  paredUrl: 'https://uniqueyanbal.sharepo int.com/sites/yanbalappsdesa/productosnuevos/pared/',
 */
   appPage: '/SitePages/app.aspx/',
   cdnUrl: 'http://bif1mssapp10/banmin/fdt/hipot',
